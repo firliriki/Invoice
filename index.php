@@ -24,7 +24,7 @@ if (!empty($_POST['username']) && !empty($_POST['pwd'])) {
 
 <div class="row">	
 	<div class="demo-heading" style="font-size: 40px; text-align:center;">
-		<h2>Invoice System <br>CV Sukses Jaya Abadi</br></h2>
+		<h2>Invoice System </h2>
 	</div>
 	<div class="login-form" style="margin-left: 450px; width: 500px; height: 300px; background-color: blue;" !important>		
 		<h2>User Login:</h2>		
